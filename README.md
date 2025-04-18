@@ -94,4 +94,3 @@ Edit
 
 ---
 
-Let me know if you'd like to include badges, screenshots, or a project video/demo link as well!
